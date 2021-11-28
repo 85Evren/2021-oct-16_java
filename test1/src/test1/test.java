@@ -17,6 +17,7 @@ public class test {
 		System.out.println(sonuc);
 		
 		System.currentTimeMillis();
+		//uuuu
 	}
 	
 
